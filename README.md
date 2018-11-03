@@ -7,7 +7,7 @@ Simple Python Script to bypass Facebook profile picture gaurd and get the profil
 Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) by <a href=https://twitter.com/MazenElzanaty>Mazen Elzanaty</a>
 
 ## How it works:
-It finds the ID of the Facebook Profile, using that ID, it goes to https://graph.facebook.com/USERNAME/picture?width=800, replacing the username with the Profile ID
+It finds the ID of the Facebook Profile, using that ID, it goes to https://graph.facebook.com/ID/picture?width=800
 
 ## Usage
 PPyBass should work on all Linux distros running Python 2.7
