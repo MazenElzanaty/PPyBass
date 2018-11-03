@@ -19,10 +19,6 @@ Now navigate to PPyBass directory
 ``` bash
 cd PPyBass
 ```
-Now install the requirements with the following command
-``` bash
-pip install -r requirements.txt
-```
 Now you can run PPyBass
 ``` bash
 python PPyBass.py
