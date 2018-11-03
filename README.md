@@ -2,7 +2,7 @@
 
 Simple Python Script to bypass Facebook profile picture gaurd and get the profile picture at full resolution 
 
-
+[![asciicast](https://asciinema.org/a/HEJsnHKQwkUO9c4BCF4NwPR4q.svg)](https://asciinema.org/a/HEJsnHKQwkUO9c4BCF4NwPR4q)
 
 Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) by <a href=https://twitter.com/MazenElzanaty>Mazen Elzanaty</a>
 
