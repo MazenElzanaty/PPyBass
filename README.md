@@ -1,0 +1,30 @@
+# PPyBass [![python](https://img.shields.io/badge/Python-2.7-green.svg?style=style=flat-square)](https://www.python.org/downloads/) ![version](https://img.shields.io/badge/Build-Final-blue.svg) ![license](https://img.shields.io/badge/License-GPL_3-orange.svg?style=style=flat-square)
+
+Simple Python Script to bypass Facebook profile picture gaurd and get the profile picture at full resolution 
+
+
+
+Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/82e3a63c-4813-11e6-9430-6015d98aeaab.png) by <a href=https://twitter.com/MazenElzanaty>Mazen Elzanaty</a>
+
+## How it works:
+It finds the ID of the Facebook Profile, using that ID, it goes to https://graph.facebook.com/USERNAME/picture?width=800, replacing the username with the Profile ID
+
+## Usage
+TwLocation should work on all Linux distros running Python 2.7
+First, clone it by entering the following command in the terminal
+``` bash
+git clone https://github.com/MazenElzanaty/PPyBass.git
+```
+Now navigate to PPyBass directory
+``` bash
+cd PPyBass
+```
+Now install the requirements with the following command
+``` bash
+pip install -r requirements.txt
+```
+Now you can run PPyBass
+``` bash
+python PPyBass.py
+```
+
