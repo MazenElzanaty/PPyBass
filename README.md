@@ -10,7 +10,7 @@ Made with ![heart](https://cloud.githubusercontent.com/assets/4301109/16754758/8
 It finds the ID of the Facebook Profile, using that ID, it goes to https://graph.facebook.com/USERNAME/picture?width=800, replacing the username with the Profile ID
 
 ## Usage
-TwLocation should work on all Linux distros running Python 2.7
+PPyBass should work on all Linux distros running Python 2.7
 First, clone it by entering the following command in the terminal
 ``` bash
 git clone https://github.com/MazenElzanaty/PPyBass.git
