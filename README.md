@@ -1,6 +1,6 @@
 # PPyBass [![python](https://img.shields.io/badge/Python-2.7-green.svg?style=style=flat-square)](https://www.python.org/downloads/) ![version](https://img.shields.io/badge/Build-Final-blue.svg) ![license](https://img.shields.io/badge/License-GPL_3-orange.svg?style=style=flat-square)
 
-Simple Python Script to bypass Facebook profile picture gaurd and get the profile picture at full resolution 
+Simple Python Script to bypass Facebook profile picture guard and get the profile picture at full resolution 
 
 [![asciicast](https://asciinema.org/a/HEJsnHKQwkUO9c4BCF4NwPR4q.svg)](https://asciinema.org/a/HEJsnHKQwkUO9c4BCF4NwPR4q)
 
